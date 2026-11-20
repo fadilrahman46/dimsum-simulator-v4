@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dimsum Simulator",
+  "description": "Dimsumpreneur — Cozy 3D isometric healthy dimsum culinary business simulator with cooking mini-games, FEFO/FIFO inventory, live customers, and Rupiah financial accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
